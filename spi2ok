@@ -1,0 +1,19 @@
+{
+    "retCode": "000",
+    "tecMsg": "request:{\n  \"ipAddress\": \"10.1.115.46\",\n  \"uuid\": \"\",\n  \"channel\": \"web\",\n  \"system\": \"spi\",\n  \"step\": 2,\n  \"onlyError\": true,\n  \"path\": \"src/main/resources/files/spi2/SPI02_2_3600186_10-04-2023.txt\"\n}",
+    "ctl": {
+        "id": "14267f6b-8f95-4515-be83-ef6e03c0064b",
+        "threadID": 280,
+        "threadName": "executor-thread-0",
+        "uri": "http://10.1.115.46:15888/snp/validator",
+        "ipAddress": "10.1.115.46",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36",
+        "platform": "Windows 10",
+        "browser": "Chrome 115.0.0.0",
+        "methodName": "validation",
+        "uuid": "14267f6b-8f95-4515-be83-ef6e03c0064b",
+        "localHostName": "ba0100067q",
+        "localDate": "Tue Aug 22 15:34:03 COT 2023",
+        "executionTime": 40
+    }
+}
